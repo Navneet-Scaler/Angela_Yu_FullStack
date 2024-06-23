@@ -566,3 +566,7 @@ By understanding and utilizing these attributes and features of the anchor eleme
 
    - **`compact`** (Deprecated):
      - **Description**: Was used to reduce the spacing between list items. This attribute is no longer supported in HTML5 and should be avoided.
+
+### Relative and absolute file paths.
+* Absolute file paths: file paths that are directly comming from C:/ or root directry.
+* Relative file path ../essay.docx this takes us one level up, but ./essay.docx it helps us to stay in the current directory and find in local.
